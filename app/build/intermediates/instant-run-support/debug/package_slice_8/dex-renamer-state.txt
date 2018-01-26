@@ -1,0 +1,4 @@
+#Fri Jan 26 14:14:10 CST 2018
+base.0=D\:\\Downloads\\CustomToolbar-master\\TimeToolbar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
